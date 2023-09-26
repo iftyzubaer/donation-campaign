@@ -6,9 +6,9 @@
         "category": "Health",
         "description": "Ensuring access to quality healthcare is essential for the well-being of individuals and communities. Governments can work to provide affordable healthcare services, improve healthcare infrastructure, and promote public health initiatives to prevent diseases and promote healthy living. Individuals can take responsibility for their health by adopting healthy lifestyles, getting regular check-ups, and staying informed about medical advancements. Healthcare professionals play a crucial role in delivering high-quality care and advocating for the health of their patients.",
         "price": 290.00,
-        "card color": "#264FFFC0",
-        "category color": "#3352FFCC",
-        "text color": "#0052FF"
+        "cardColor": "#264FFFC0",
+        "categoryColor": "#3352FFCC",
+        "textColor": "#0052FF"
     },
     {
         "id": 2,
@@ -17,9 +17,9 @@
         "category": "Education",
         "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "price": 290.00,
-        "card color": "#2644FF4A",
-        "category color": "#33FF444A",
-        "text color": "#FF444A"
+        "cardColor": "#2644FF4A",
+        "categoryColor": "#33FF444A",
+        "textColor": "#FF444A"
     },
     {
         "id": 3,
@@ -28,9 +28,9 @@
         "category": "Clothing",
         "description": "Clothing is a fundamental aspect of daily life, providing not only protection from the elements but also a means of self-expression. Governments can support the clothing industry by promoting fair labor practices and ensuring the availability of affordable, sustainable clothing options. Consumers can make ethical choices by purchasing clothing from responsible brands and reducing waste through recycling and donating. Fashion designers and creators contribute to the industry's vibrancy by innovating in style, materials, and production techniques.",
         "price": 290.00,
-        "card color": "#79C23F26",
-        "category color": "#79C23F33",
-        "text color": "#79C23F"
+        "cardColor": "#79C23F26",
+        "categoryColor": "#79C23F33",
+        "textColor": "#79C23F"
     },
     {
         "id": 4,
@@ -39,9 +39,9 @@
         "category": "Food",
         "description": "Access to nutritious and safe food is a basic human right. Governments can address food security by implementing policies that support sustainable agriculture, ensure food safety, and reduce food waste. Communities can organize food banks and support local agriculture to provide fresh produce to those in need. Individuals can make healthier food choices, reduce food waste at home, and advocate for policies that promote food equity. Food producers, from farmers to chefs, play a crucial role in the quality and diversity of the food supply chain, ensuring a variety of options for all.",
         "price": 290.00,
-        "card color": "#F8714726",
-        "category color": "#F8714733",
-        "text color": "#F87147"
+        "cardColor": "#F8714726",
+        "categoryColor": "#F8714733",
+        "textColor": "#F87147"
     },
     {
         "id": 5,
@@ -50,9 +50,9 @@
         "category": "Food",
         "description": "Access to nutritious and safe food is a basic human right. Governments can address food security by implementing policies that support sustainable agriculture, ensure food safety, and reduce food waste. Communities can organize food banks and support local agriculture to provide fresh produce to those in need. Individuals can make healthier food choices, reduce food waste at home, and advocate for policies that promote food equity. Food producers, from farmers to chefs, play a crucial role in the quality and diversity of the food supply chain, ensuring a variety of options for all.",
         "price": 290.00,
-        "card color": "#F8714726",
-        "category color": "#F8714733",
-        "text color": "#F87147"
+        "cardColor": "#F8714726",
+        "categoryColor": "#F8714733",
+        "textColor": "#F87147"
     },
     {
         "id": 6,
@@ -61,9 +61,9 @@
         "category": "Clothing",
         "description": "Clothing is a fundamental aspect of daily life, providing not only protection from the elements but also a means of self-expression. Governments can support the clothing industry by promoting fair labor practices and ensuring the availability of affordable, sustainable clothing options. Consumers can make ethical choices by purchasing clothing from responsible brands and reducing waste through recycling and donating. Fashion designers and creators contribute to the industry's vibrancy by innovating in style, materials, and production techniques.",
         "price": 290.00,
-        "card color": "#79C23F26",
-        "category color": "#79C23F33",
-        "text color": "#79C23F"
+        "cardColor": "#79C23F26",
+        "categoryColor": "#79C23F33",
+        "textColor": "#79C23F"
     },
     {
         "id": 7,
@@ -72,9 +72,9 @@
         "category": "Education",
         "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "price": 290.00,
-        "card color": "#2644FF4A",
-        "category color": "#33FF444A",
-        "text color": "#FF444A"
+        "cardColor": "#2644FF4A",
+        "categoryColor": "#33FF444A",
+        "textColor": "#FF444A"
     },
     {
         "id": 8,
@@ -83,9 +83,9 @@
         "category": "Health",
         "description": "Ensuring access to quality healthcare is essential for the well-being of individuals and communities. Governments can work to provide affordable healthcare services, improve healthcare infrastructure, and promote public health initiatives to prevent diseases and promote healthy living. Individuals can take responsibility for their health by adopting healthy lifestyles, getting regular check-ups, and staying informed about medical advancements. Healthcare professionals play a crucial role in delivering high-quality care and advocating for the health of their patients.",
         "price": 290.00,
-        "card color": "#264FFFC0",
-        "category color": "#3352FFCC",
-        "text color": "#0052FF"
+        "cardColor": "#264FFFC0",
+        "categoryColor": "#3352FFCC",
+        "textColor": "#0052FF"
     },
     {
         "id": 9,
@@ -94,9 +94,9 @@
         "category": "Health",
         "description": "Ensuring access to quality healthcare is essential for the well-being of individuals and communities. Governments can work to provide affordable healthcare services, improve healthcare infrastructure, and promote public health initiatives to prevent diseases and promote healthy living. Individuals can take responsibility for their health by adopting healthy lifestyles, getting regular check-ups, and staying informed about medical advancements. Healthcare professionals play a crucial role in delivering high-quality care and advocating for the health of their patients.",
         "price": 290.00,
-        "card color": "#264FFFC0",
-        "category color": "#3352FFCC",
-        "text color": "#0052FF"
+        "cardColor": "#264FFFC0",
+        "categoryColor": "#3352FFCC",
+        "textColor": "#0052FF"
     },
     {
         "id": 10,
@@ -105,9 +105,9 @@
         "category": "Education",
         "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "price": 290.00,
-        "card color": "#2644FF4A",
-        "category color": "#33FF444A",
-        "text color": "#FF444A"
+        "cardColor": "#2644FF4A",
+        "categoryColor": "#33FF444A",
+        "textColor": "#FF444A"
     },
     {
         "id": 11,
@@ -116,9 +116,9 @@
         "category": "Clothing",
         "description": "Clothing is a fundamental aspect of daily life, providing not only protection from the elements but also a means of self-expression. Governments can support the clothing industry by promoting fair labor practices and ensuring the availability of affordable, sustainable clothing options. Consumers can make ethical choices by purchasing clothing from responsible brands and reducing waste through recycling and donating. Fashion designers and creators contribute to the industry's vibrancy by innovating in style, materials, and production techniques.",
         "price": 290.00,
-        "card color": "#79C23F26",
-        "category color": "#79C23F33",
-        "text color": "#79C23F"
+        "cardColor": "#79C23F26",
+        "categoryColor": "#79C23F33",
+        "textColor": "#79C23F"
     },
     {
         "id": 12,
@@ -127,8 +127,8 @@
         "category": "Food",
         "description": "Access to nutritious and safe food is a basic human right. Governments can address food security by implementing policies that support sustainable agriculture, ensure food safety, and reduce food waste. Communities can organize food banks and support local agriculture to provide fresh produce to those in need. Individuals can make healthier food choices, reduce food waste at home, and advocate for policies that promote food equity. Food producers, from farmers to chefs, play a crucial role in the quality and diversity of the food supply chain, ensuring a variety of options for all.",
         "price": 290.00,
-        "card color": "#F8714726",
-        "category color": "#F8714733",
-        "text color": "#F87147"
+        "cardColor": "#F8714726",
+        "categoryColor": "#F8714733",
+        "textColor": "#F87147"
     }
 ]
