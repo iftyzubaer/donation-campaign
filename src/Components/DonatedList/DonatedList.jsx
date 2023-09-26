@@ -1,8 +1,9 @@
 import PropTypes from 'prop-types';
+import { Link } from "react-router-dom";
 
 const DonatedList = ({ list }) => {
 
-    const { image, category, title, price, textColor, categoryColor, cardColor } = list;
+    const { image, category, title, price, textColor, categoryColor, cardColor, id } = list;
     const styleCard = {
         "backgroundColor": `${cardColor}`
     }
@@ -36,13 +37,13 @@ const DonatedList = ({ list }) => {
                         ${price.toFixed(2)}
                     </p>
                     <a className="inline-block" href="#">
-                        <button
+                        <Link to={`/lists/${id}`}
                             style={styleBtn}
                             className="flex select-none items-center gap-2 rounded-lg py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white"
                             type="button"
                         >
                             View Details
-                        </button>
+                        </Link>
                     </a>
                 </div>
             </div>
