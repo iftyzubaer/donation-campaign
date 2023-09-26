@@ -3,15 +3,25 @@ import { Link } from "react-router-dom";
 
 const List = ({list}) => {
     const {image, category, title, textColor, categoryColor, cardColor, id} = list;
-    console.log(textColor, categoryColor);
+    // console.log(textColor, categoryColor);
+    const styleCard = {
+        "backgroundColor": `${cardColor}`
+    }
+    const styleCategory = {
+        "backgroundColor": `${categoryColor}`,
+        "color": `${textColor}`
+    }
+    const styleTitle = {
+        "color": `${textColor}`
+    }
     return (
         
         <Link to={`/lists/${id}`}>
-            <div className={`card bg-[${cardColor}]`}>
+            <div style={styleCard} className="card">
                 <figure><img src={image} alt="Shoes" /></figure>
                 <div className="card-body">
-                    <div className={`badge rounded px-3 py-1 text-sm font-medium bg-[${categoryColor}] text-[${textColor}]`}>{category}</div>
-                    <p className={`text-xl font-semibold text-[${textColor}]`}>{title}</p>
+                    <div style={styleCategory} className="badge rounded px-3 py-2 border-none text-sm font-medium">{category}</div>
+                    <p style={styleTitle} className="text-lg font-semibold">{title}</p>
                 </div>
             </div>
         </Link>
