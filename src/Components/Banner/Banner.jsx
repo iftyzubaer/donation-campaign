@@ -6,7 +6,8 @@ const Banner = () => {
                 <div className="hero-content text-center text-neutral-content">
                     <div className="">
                         <h1 className="mb-5 text-5xl text-black font-bold">I Grow By Helping People In Need</h1>
-                        <button className="btn btn-primary">Get Started</button>
+                        <input className="py-4 pl-4 pr-60 border-gray-300 rounded-r-none rounded-l-lg" type="text" placeholder="Search here...."/>
+                        <button className="btn rounded-r-lg rounded-l-none bg-[#FF444A] text-white font-semibold py-4 px-7">Search</button>
                     </div>
                 </div>
             </div>
