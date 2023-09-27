@@ -28,7 +28,7 @@ const Statistics = () => {
                     </Pie>
                 </PieChart>
             </ResponsiveContainer>
-            <div key={lists.id} style={{ display: "flex", justifyContent: "center", gap: "10px" }}>
+            <div key={lists.id} className="flex-col md:flex-row" style={{ display: "flex", justifyContent: "center", gap: "10px" }}>
                 {data.map((item) => (
                     <p key={lists.id} className="text-lg">
                         {" "}
