@@ -5,7 +5,7 @@ const Nav = () => {
 
         <div className="navbar bg-base-100">
             <div className="flex-1">
-                <img src="/images/Logo.png" alt="" />
+                <img src="logo.png" alt="" />
             </div>
             <div className="flex-none">
                 <ul className="flex gap-6">
