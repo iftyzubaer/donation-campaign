@@ -11,7 +11,7 @@ const Statistics = () => {
         if (donatedItems){
             setDonated(donatedItems.length * 100 / lists.length)
         }
-    }, [])
+    }, [lists.length])
     const totalDonation = 100-donated
     const data = [
         { name: "Your Donation", value: donated, color: "#00C49F" },
@@ -28,7 +28,7 @@ const Statistics = () => {
                     </Pie>
                 </PieChart>
             </ResponsiveContainer>
-            <div style={{ display: "flex", justifyContent: "center", gap: "10px" }}>
+            <div key={lists.id} style={{ display: "flex", justifyContent: "center", gap: "10px" }}>
                 {data.map((item) => (
                     <p key={lists.id} className="text-lg">
                         {" "}
